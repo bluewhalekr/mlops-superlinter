@@ -4,7 +4,7 @@ author: 'forked-from-github'
 description: 'It is a simple combination of various linters, written in bash, to help validate your source code on harbor.bluewhale.kr'
 runs:
   using: 'docker'
-  image: 'docker://harbor.bluewhale.kr:31013/public/super-linter:slim-v4.10.0'
+  image: 'docker://harbor.bluewhale.kr:31013/public/super-linter:slim-v5'
 branding:
   icon: 'check-square'
   color: 'white'
